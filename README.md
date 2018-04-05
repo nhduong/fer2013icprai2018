@@ -1,4 +1,4 @@
-#### This work was submitted to International Conference on Pattern Recognition and Artificial Intelligence 2018 (ICPRAI 2018) http://www.icprai2018.com/
+#### This work was accepted to publish to International Conference on Pattern Recognition and Artificial Intelligence 2018 (ICPRAI 2018) http://www.icprai2018.com/
 
 # Facial Expression Recognition Using a Multi-level Convolutional Neural Network
 Hai-Duong Nguyen*, Soonja Yeom**, Il-Seok Oh***, Kyoung-Min Kim****, Soo-Hyung Kim*  
