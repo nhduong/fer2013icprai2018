@@ -14,7 +14,7 @@ Hai-Duong Nguyen*, Soonja Yeom**, Il-Seok Oh***, Kyoung-Min Kim****, Soo-Hyung K
 3. Keras 2.0.6
 3. CUDA 8.0
 4. cuDNN v5
-[matplotlib 1.5.3]
+5. [matplotlib 1.5.3]
 
 ## Usage
 1. Download [FER2013 testing set](https://drive.google.com/open?id=1YTsJc1taLBC-aHNJdrvMND3_I6EL8Gqn) and save 2 npy files to the root folder
