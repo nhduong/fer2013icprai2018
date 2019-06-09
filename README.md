@@ -14,6 +14,19 @@ Hai-Duong Nguyen*, Soonja Yeom**, Il-Seok Oh***, Kyoung-Min Kim****, Soo-Hyung K
         year          = "2018",
         pages         = "217--221"
       }
+      
+      
+      @article{doi:10.1142/S0218001419400159,
+        author = {Nguyen, Hai-Duong and Yeom, Soonja and Lee, Guee-Sang and Yang, Hyung-Jeong and Na, In-Seop and Kim, Soo-Hyung},
+        title = {Facial Emotion Recognition Using an Ensemble of Multi-Level Convolutional Neural Networks},
+        journal = {International Journal of Pattern Recognition and Artificial Intelligence},
+        pages = {1940015},
+        year = {2019},
+        doi = {10.1142/S0218001419400159},
+        URL = { 
+            https://doi.org/10.1142/S0218001419400159
+        }
+      }
   
 ## Environment
 1. Python 3.5
