@@ -8,14 +8,15 @@ Hai-Duong Nguyen*, Soonja Yeom**, Il-Seok Oh***, Kyoung-Min Kim****, Soo-Hyung K
 (\*\*\*\*) Department of Electrical and Semiconductor Engineering, Chonnam National University, South Korea  
   
       @inproceedings{duongicprai18,
-        author        = "Hai-Duong Nguyen and Soonja Yeom and Il-Seok Oh and Kyoung-Min Kim and Soo-Hyung Kim",
+        author        = "Nguyen, Hai-Duong and Yeom, Soonja and Oh, Il-Seok and Kim, Kyoung-Min and Kim, Soo-Hyung",
         title         = "Facial Expression Recognition Using a Multi-level Convolutional Neural Network",
         booktitle     = "Proceedings of International Conference on Pattern Recognition and Artificial Intelligence (ICPRAI)",
         year          = "2018",
         pages         = "217--221"
       }
       
-      
+and
+        
       @article{doi:10.1142/S0218001419400159,
         author = {Nguyen, Hai-Duong and Yeom, Soonja and Lee, Guee-Sang and Yang, Hyung-Jeong and Na, In-Seop and Kim, Soo-Hyung},
         title = {Facial Emotion Recognition Using an Ensemble of Multi-Level Convolutional Neural Networks},
