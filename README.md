@@ -1,3 +1,6 @@
+![Python 3.5](https://img.shields.io/badge/Python-3.5-blue.svg)
+![TensorFlow 1.1.0](https://img.shields.io/badge/TensorFlow-1.1.0-blue.svg)
+
 #### This work was accepted to publish to International Conference on Pattern Recognition and Artificial Intelligence 2018 (ICPRAI 2018) http://www.icprai2018.com/
 
 # Facial Expression Recognition Using a Multi-level Convolutional Neural Network
