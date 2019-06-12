@@ -1,5 +1,8 @@
 ![Python 3.5](https://img.shields.io/badge/Python-3.5-blue.svg)
-![TensorFlow 1.1.0](https://img.shields.io/badge/TensorFlow-1.1.0-blue.svg)
+![TensorFlow 1.1.0](https://img.shields.io/badge/TensorFlow-1.1.0-green.svg)
+![Keras 2.0.6](https://img.shields.io/badge/Keras-2.0.6-yellow.svg)
+![CUDA 8.0](https://img.shields.io/badge/CUDA-8.0-orange.svg)
+![cuDNN v5](https://img.shields.io/badge/cuDNN-v5-red.svg)
 
 #### This work was accepted to publish to International Conference on Pattern Recognition and Artificial Intelligence 2018 (ICPRAI 2018) http://www.icprai2018.com/
 
@@ -31,14 +34,6 @@ and
             https://doi.org/10.1142/S0218001419400159
         }
       }
-  
-## Environment
-1. Python 3.5
-2. TensorFlow 1.1.0
-3. Keras 2.0.6
-3. CUDA 8.0
-4. cuDNN v5
-5. [matplotlib 1.5.3]
 
 ## Usage
 1. Download [FER2013 testing set](https://drive.google.com/open?id=1YTsJc1taLBC-aHNJdrvMND3_I6EL8Gqn) and save 2 npy files to the root folder
