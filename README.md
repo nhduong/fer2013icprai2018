@@ -27,12 +27,12 @@ and
         author = {Nguyen, Hai-Duong and Yeom, Soonja and Lee, Guee-Sang and Yang, Hyung-Jeong and Na, In-Seop and Kim, Soo-Hyung},
         title = {Facial Emotion Recognition Using an Ensemble of Multi-Level Convolutional Neural Networks},
         journal = {International Journal of Pattern Recognition and Artificial Intelligence},
-        pages = {1940015},
         year = {2019},
-        doi = {10.1142/S0218001419400159},
-        URL = { 
-            https://doi.org/10.1142/S0218001419400159
-        }
+        volume = {33},
+        number = {8},
+        month = Aug,
+        url = {https://doi.org/10.1142/S0218001419400159},
+        doi = {10.1142/S0218001419400159}
       }
 
 ## Usage
