@@ -13,27 +13,27 @@ Hai-Duong Nguyen*, Soonja Yeom**, Il-Seok Oh***, Kyoung-Min Kim****, Soo-Hyung K
 (\*\*\*) Department of Computer Science and Engineering, Chonbuk National University, South Korea  
 (\*\*\*\*) Department of Electrical and Semiconductor Engineering, Chonnam National University, South Korea  
   
-@inproceedings{duong_icprai18,
-	author        = "Nguyen, Hai-Duong and Yeom, Soonja and Oh, Il-Seok and Kim, Kyoung-Min and Kim, Soo-Hyung",
-	title         = "Facial Expression Recognition Using a Multi-level Convolutional Neural Network",
-	booktitle     = "Proceedings of International Conference on Pattern Recognition and Artificial Intelligence (ICPRAI)",
-	year          = "2018",
-	pages         = "217--221"
-}
+  @inproceedings{duong_icprai18,
+    author        = "Nguyen, Hai-Duong and Yeom, Soonja and Oh, Il-Seok and Kim, Kyoung-Min and Kim, Soo-Hyung",
+    title         = "Facial Expression Recognition Using a Multi-level Convolutional Neural Network",
+    booktitle     = "Proceedings of International Conference on Pattern Recognition and Artificial Intelligence (ICPRAI)",
+    year          = "2018",
+    pages         = "217--221"
+  }
       
 and
         
-@article{doi:10.1142/S0218001419400159,
-	author = {Nguyen, Hai-Duong and Yeom, Soonja and Lee, Guee-Sang and Yang, Hyung-Jeong and Na, In-Seop and Kim, Soo-Hyung},
-	title = {Facial Emotion Recognition Using an Ensemble of Multi-Level Convolutional Neural Networks},
-	journal = {International Journal of Pattern Recognition and Artificial Intelligence},
-	year = {2019},
-	volume = {33},
-	number = {8},
-	month = Aug,
-	url = {https://doi.org/10.1142/S0218001419400159},
-	doi = {10.1142/S0218001419400159}
-}
+  @article{doi:10.1142/S0218001419400159,
+    author = {Nguyen, Hai-Duong and Yeom, Soonja and Lee, Guee-Sang and Yang, Hyung-Jeong and Na, In-Seop and Kim, Soo-Hyung},
+    title = {Facial Emotion Recognition Using an Ensemble of Multi-Level Convolutional Neural Networks},
+    journal = {International Journal of Pattern Recognition and Artificial Intelligence},
+    year = {2019},
+    volume = {33},
+    number = {8},
+    month = Aug,
+    url = {https://doi.org/10.1142/S0218001419400159},
+    doi = {10.1142/S0218001419400159}
+  }
 
 ## Usage
 1. Download [FER2013 testing set](https://drive.google.com/open?id=1YTsJc1taLBC-aHNJdrvMND3_I6EL8Gqn) and save 2 npy files to the root folder
