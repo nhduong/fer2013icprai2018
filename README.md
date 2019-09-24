@@ -34,6 +34,15 @@ and
       url = {https://doi.org/10.1142/S0218001419400159},
       doi = {10.1142/S0218001419400159}
     }
+    
+and
+        
+    @article{duong_tac2019,
+      author = {Nguyen, Hai-Duong and Kim, Sun-Hee and Lee, Guee-Sang and Yang, Hyung-Jeong and Na, In-Seop and Kim, Soo-Hyung},
+      title = {Facial Expression Recognition Using a Temporal Ensemble of Multi-level Convolutional Neural Networks},
+      journal = {To appear in IEEE Transactions on Affective Computing},
+      year = {2019},
+    }
 
 ## Usage
 1. Download [FER2013 testing set](https://drive.google.com/open?id=1YTsJc1taLBC-aHNJdrvMND3_I6EL8Gqn) and save 2 npy files to the root folder
