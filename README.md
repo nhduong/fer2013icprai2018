@@ -36,12 +36,13 @@ and
     }
     
 and
-        
-    @article{duong_tac2019,
-      author = {Nguyen, Hai-Duong and Kim, Sun-Hee and Lee, Guee-Sang and Yang, Hyung-Jeong and Na, In-Seop and Kim, Soo-Hyung},
-      title = {Facial Expression Recognition Using a Temporal Ensemble of Multi-level Convolutional Neural Networks},
-      journal = {To appear in IEEE Transactions on Affective Computing},
-      year = {2019},
+    
+    @ARTICLE{8863974,
+      author={D. H. {Nguyen} and S. {Kim} and G. {Lee} and H. {Yang} and I. {Na} and S. H. {Kim}},
+      journal={IEEE Transactions on Affective Computing},
+      title={Facial Expression Recognition Using a Temporal Ensemble of Multi-level Convolutional Neural Networks},
+      year={2019},
+      doi={10.1109/TAFFC.2019.2946540}
     }
 
 ## Usage
